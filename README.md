@@ -27,8 +27,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/ios102/zoigyMgF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-https://submissions.us-east-1.linodeobjects.com/ios102/zoigyMgF.gif
+![ezgif-5-8253f5f8f3](https://user-images.githubusercontent.com/55097668/226221434-84d71179-18a9-4c5b-9fd2-c0cdf9778bcb.gif)
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with iPhone Recorder
 <!-- Recommended tools:
